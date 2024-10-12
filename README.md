@@ -55,6 +55,11 @@
             </ol>
         </li>
     </ul>
+  <h3>5. <code>symptoms_dict.json</code>: Symptoms Dictionary</h3>
+    <p>This file contains the symptoms dictionary in JSON format, with symptoms as keys and their attributes (such as severity levels) as values. It is generated and updated during the different steps of the assignment, particularly in <code>Step3.ipynb</code> and <code>Step4.py</code>.</p>
+
+   <h3>6. <code>data.csv</code>: Patient Symptoms Dataset</h3>
+    <p>This file contains the dataset of patient symptoms used in the assignment. It is loaded and processed in the notebooks and scripts to extract, enhance, and update the symptoms dictionary.</p>
 
   <h2>How to Use</h2>
     <ol>
